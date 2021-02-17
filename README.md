@@ -1,9 +1,11 @@
 ### Hi there 👋 ! My name is Adam Park :)
 <h3>
-A full stack web developer who wants to make this world a better place to live in by contributing to the World Wide Web. I am currently located in Orange County, CA. Please contact me if you have any questions via my socials or email. 
- <br></br>
-  
-Cheers!
+  <br></br>
+A Full Stack Web Developer 
+  <br></br>
+  Orange County, CA
+  <br></br>
+
  <br></br>
 </h3>
 <a href="https://www.linkedin.com/in/sung-min-park/"><img src="https://img.shields.io/badge/-AdamPark-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sung-min-park/)" alt="LinkedIn"></a>
