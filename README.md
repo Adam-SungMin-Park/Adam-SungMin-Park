@@ -4,6 +4,7 @@ A full stack web developer who wants to make this world a better place to live i
  <br></br>
   
 Cheers!
+ <br></br>
 </h3>
 <a href="https://www.linkedin.com/in/sung-min-park/"><img src="https://img.shields.io/badge/-AdamPark-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sung-min-park/)" alt="LinkedIn"></a>
 <a href="mailto:parksm2@uci.edu"><img src="https://img.shields.io/badge/-parksm2@uci.edu-blue?style=flat&logo=email&logoColor=white&link=https://www.linkedin.com/in/sung-min-park/)" alt="email"></a>
