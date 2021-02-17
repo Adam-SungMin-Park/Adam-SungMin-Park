@@ -3,6 +3,7 @@
 A full stack web developer who wants to make this world a better place to live in by contributing to the World Wide Web. I am currently located in Orange County, CA. Please contact me if you have any questions via my socials or email. 
 </h3>
 <a href="https://www.linkedin.com/in/sung-min-park/"><img src="https://img.shields.io/badge/-AdamPark-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sung-min-park/)" alt="LinkedIn"></a>
+<a href="mailto:parksm2@uci.edu"><img src="https://img.shields.io/badge/-parksm2@uci.edu-blue?style=flat&logo=email&logoColor=white&link=https://www.linkedin.com/in/sung-min-park/)" alt="email"></a>
 
 
 
