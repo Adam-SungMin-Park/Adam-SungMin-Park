@@ -1,6 +1,7 @@
 ### Hi there 👋 ! My name is Adam Park :)
 <h3>
 A full stack web developer who wants to make this world a better place to live in by contributing to the World Wide Web. I am currently located in Orange County, CA. Please contact me if you have any questions via my socials or email. 
+ <br></br>
   
 Cheers!
 </h3>
