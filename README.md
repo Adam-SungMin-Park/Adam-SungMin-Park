@@ -3,10 +3,12 @@
   <h1>Hi there 👋 ! My name is Adam Park</h1>
   
   <h2>I am a Full Stack Web Developer :computer:</h2>
-
-  <h2>I live in :house: Orange County, CA<h2>
   
-  <h1>⚡ Technologies<h1>
+  <h1>I live in :house: </h1>
+
+  <h2> Orange County, CA<h2>
+  
+  <h1>⚡ Technologies I use <h1>
   <h2> 
     <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
     <img alt="Webpack" src="https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=white" /> 
