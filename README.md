@@ -1,11 +1,13 @@
 <div align ="center">
 
-<h1>Hi there 👋 ! My name is Adam Park :)</h1>
+<h1>Hi there 👋 !</h1>
+  <h2>My name is Adam Park :pray:<h2>
 
   <br></br>
 <h2>A Full Stack Web Developer </h2>
   <br></br>
-<h2>Orange County, CA</h2>
+  <h1>:house:<h1>
+  <h2>Orange County, CA</h2>
   <br></br>
 
  <br></br>
