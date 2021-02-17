@@ -2,10 +2,9 @@
 
   <h1>Hi there 👋 ! My name is Adam Park</h1>
   
-  <h1>I am a Full Stack Web Developer :computer:</h1>
+  <h2>I am a Full Stack Web Developer :computer:</h2>
 
-  <h1>I live in :house: Orange County, CA<h1>
-  
+  <h2>I live in :house: Orange County, CA<h2>
   
   <h1>⚡ Technologies<h1>
   <h2> 
