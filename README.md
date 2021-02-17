@@ -3,10 +3,12 @@
   <h1>Hi there 👋 ! My name is Adam Park</h1>
   
   <h2>I am a Full Stack Web Developer :computer:</h2>
+  <h3>I decided to pursue coding so that I could also contribute to this internet world and ultimately make the world a better place to live in. :pray: </h3>
   
   <h1>I live in :house: </h1>
 
   <h2> Orange County, CA<h2>
+  
   
   <h1>⚡ Technologies I use <h1>
   <h2> 
@@ -22,6 +24,7 @@
   <h2>
 
   <h1>Contact Me!</h1>
+  <h3>If you want to know me better, have any questions, please feel free to reach out to me!</h3>
 <a href="https://www.linkedin.com/in/sung-min-park/"><img src="https://img.shields.io/badge/-AdamPark-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sung-min-park/)" alt="LinkedIn"></a>
 <a href="mailto:parksm2@uci.edu"><img src="https://img.shields.io/badge/-parksm2@uci.edu-blue?style=flat&logo=email&logoColor=white&link=https://www.linkedin.com/in/sung-min-park/)" alt="email"></a>
 
