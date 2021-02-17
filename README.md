@@ -1,5 +1,7 @@
-### Hi there 👋 my name is Adam Park, a full stack web developer who wants to make this world a better place to live in by contributing to the World Wide Web.  
-
+### Hi there 👋 my name is Adam Park
+<h2>
+a full stack web developer who wants to make this world a better place to live in by contributing to the World Wide Web.  
+</h2>
 
 
 <h3>Things I code with</h3>
