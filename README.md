@@ -20,5 +20,3 @@ A full stack web developer who wants to make this world a better place to live i
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
 </p>
 
-
-- 📫 How to reach me: parksm2@uci.edu
