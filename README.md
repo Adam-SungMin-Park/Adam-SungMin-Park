@@ -8,6 +8,7 @@
   <h1>I live in :house: </h1>
 
   <h2> Orange County, CA<h2>
+  <h3> I was born and raised in :korea:, moved to the states when I was around 11. I will try to answer you anything related to Korea if I can :joy:</h3>
   
   
   <h1>⚡ Technologies I use <h1>
