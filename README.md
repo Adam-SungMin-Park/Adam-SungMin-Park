@@ -2,8 +2,6 @@
 
   <h1>Hi there 👋 !</h1>
   <h2>My name is Adam Park :pray:<h2>
-
-  <h1> "I am a" : <h1> 
   <h2>"A Full Stack Web Developer"</h2>
 
   <h1>"Location :house:"<h1>
