@@ -2,12 +2,11 @@
 
   <h1>Hi there 👋 ! </h1>
   <h2>My name is Adam Park, I am a Full Stack Web Developer :computer: </h2>
-  <br></br>
+ 
  
   <h1>I live in :house: </h1>
   <h2> Orange County, CA <h2>
-  <br></br>
- 
+
   
   <h1>⚡ Technologies I use (<em>"Let"</em> not "Const")<h1>
     <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
@@ -19,7 +18,7 @@
     <img alt ="css" src ="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3" />
     <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
     <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
-    <br></br>
+
  
   
 
