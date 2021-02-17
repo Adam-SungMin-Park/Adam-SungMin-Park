@@ -1,4 +1,6 @@
-### Hi there 👋 ! My name is Adam Park :)
+<div align ="center">
+
+<h1>Hi there 👋 ! My name is Adam Park :)</h1>
 <h3>
   <br></br>
 A Full Stack Web Developer 
@@ -26,3 +28,4 @@ A Full Stack Web Developer
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
 </p>
 
+</div>
