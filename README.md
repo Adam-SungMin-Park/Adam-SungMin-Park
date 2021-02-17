@@ -1,13 +1,13 @@
 <div align ="center">
 
-  <h1>Hi there 👋 !</h1>
-  <h2>My name is Adam Park :pray:<h2>
-  <h2>"A Full Stack Web Developer"</h2>
+  <h1>Hi there 👋 !My name is Adam Park :pray:</h1>
+  
+  <h1>A Full Stack Web Developer</h1>
 
-  <h1>"Location :house:"<h1>
+  <h1>Location :house:<h1>
   <h2>Orange County, CA</h2>
   
-  <h1>"⚡ Technologies:"<h1>
+  <h1>⚡ Technologies<h1>
   <h2> 
     <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
     <img alt="Webpack" src="https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=white" /> 
