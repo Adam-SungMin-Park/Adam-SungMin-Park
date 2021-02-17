@@ -1,14 +1,27 @@
 <div align ="center">
 
-<h1>Hi there 👋 !</h1>
+  <h1>Hi there 👋 !</h1>
   <h2>My name is Adam Park :pray:<h2>
 
   <h1> "I am a" : <h1> 
-<h2>"A Full Stack Web Developer"</h2>
+  <h2>"A Full Stack Web Developer"</h2>
 
-  <h1>:house:<h1>
+  <h1>"I live in :house:"<h1>
   <h2>Orange County, CA</h2>
-  <br></br>
+  
+  <h1>"I play with :"<h1>
+  <h2> 
+    <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
+    <img alt="Webpack" src="https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=white" /> 
+    <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
+    <img alt="Heroku" src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white" />
+    <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
+    <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
+    <img alt ="css" src ="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3" />
+    <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+    <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
+  <h2>
+
 
  <br></br>
 </h3>
