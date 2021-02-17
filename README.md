@@ -2,12 +2,10 @@
 
   <h1>Hi there 👋 ! </h1>
   <h2>My name is Adam Park, I am a Full Stack Web Developer :computer: </h2>
-  <h3>I decided to pursue coding so that I could also contribute to this internet world and ultimately make the world a better place to live in. :pray: </h3>
-  
+  <h3>I decided to pursue coding so that I could also contribute to this internet world and ultimately make the world a better place to live in. :pray: </h3> 
   <h1>I live in :house: </h1>
-  <h2> Orange County, CA<h2>
-  <h3> I was born and raised in :kr:, moved to the states when I was around 11. I will try to answer you anything related to :kr: if I can :joy:</h3>
-  
+  <h2> Orange County, CA <h2>
+  <h3> I was born and raised in :kr:, moved to the states when I was around 11. I will try to answer you anything related to :kr: if I can :joy:</h3> 
   <h1>⚡ Technologies I use <h1>
   <h2> (<em>"Let"</em> not "Const") </h2>
   <h2> 
