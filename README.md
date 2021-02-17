@@ -1,8 +1,8 @@
 <div align ="center">
 
-  <h1>Hi there 👋 ! My name is Adam Park</h1>
+  <h1>Hi there 👋 ! </h1>
   
-  <h2>I am a Full Stack Web Developer :computer:</h2>
+  <h2>My name is Adam Park, I am a Full Stack Web Developer :computer: </h2>
   <h3>I decided to pursue coding so that I could also contribute to this internet world and ultimately make the world a better place to live in. :pray: </h3>
   
   <h1>I live in :house: </h1>
