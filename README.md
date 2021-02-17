@@ -1,11 +1,11 @@
 <div align ="center">
 
 <h1>Hi there 👋 ! My name is Adam Park :)</h1>
-<h3>
+
   <br></br>
-A Full Stack Web Developer 
+<h2>A Full Stack Web Developer </h2>
   <br></br>
-  Orange County, CA
+<h2>Orange County, CA</h2>
   <br></br>
 
  <br></br>
