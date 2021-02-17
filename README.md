@@ -6,6 +6,8 @@
  
   <h1>I live in :house: </h1>
   <h2> Orange County, CA <h2>
+  <br></br>
+ 
   
   <h1>⚡ Technologies I use <h1>
   <h2> (<em>"Let"</em> not "Const") </h2>
