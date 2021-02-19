@@ -2,6 +2,11 @@
 
   <h1>Hi there 👋 ! </h1>
   <h2>My name is Adam Park, I am a Full Stack Web Developer :computer: </h2>
+  <h3>After graduating from UCI with a bachelor's in Material Science Engineering and working for a bio-med company as a Quality Engineer for the product lines, I quickly came to realize that I wanted to do something more. Not saying that I wasn't happy with my work but I knew that I had room to grow my passion and hopefully connecting that passion with my work.
+
+I was just aware of what programming is, but I certainly did not know how it worked, or how to apply it to our daily lives. I believe that human beings are thrived by their curiosity and I cannot agree more with it. At this point, I have decided to take a new challenge by going through the LearningFuze's accelerated Web Development course.
+
+Ever since I started my programming journey with LearningFuze, I was thrilled by the fact how much I did not know about programming and what I am capable of with utilizing software skills. With LearningFuze, I have been spending 10-12 hours a day using numerous different coding programs such as JavaScript, JSON , AJAX and etc. Experience from LearningFuze not only taught me how to use such skills but also taught me how to approach the problem and reach to the solution.</h3>
  
  
   <h1>I live in :house: </h1>
