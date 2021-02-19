@@ -1,4 +1,4 @@
-<div align ="center">
+
 
   <h1>Hi there 👋 ! </h1>
   <h2>My name is Adam Park, I am a Full Stack Web Developer :computer: </h2>
