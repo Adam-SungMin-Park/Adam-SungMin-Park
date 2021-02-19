@@ -10,11 +10,11 @@ I was just aware of what programming is, but I certainly did not know how it wor
 Ever since I started my programming journey with LearningFuze, I was thrilled by the fact how much I did not know about programming and what I am capable of with utilizing software skills. With LearningFuze, I have been spending 10-12 hours a day using numerous different coding programs such as JavaScript, JSON , AJAX and etc. Experience from LearningFuze not only taught me how to use such skills but also taught me how to approach the problem and reach to the solution.</h4>
  
  
-  <h1>I live in :house: </h1>
+  <h1> Current Location :house: </h1>
   <h2> Orange County, CA <h2>
 
   
-  <h1>⚡ Technologies I use (<em>"Let"</em> not "Const")<h1>
+  <h1>⚡ Skills <h1>
     <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
     <img alt="Webpack" src="https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=white" /> 
     <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
