@@ -13,7 +13,7 @@ Ever since I started my programming journey with LearningFuze, I was thrilled by
   <h1> Current Location :house: </h1>
   <h2> Orange County, CA <h2>
 
-  
+
   <h1>⚡ Skills <h1>
     <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
     <img alt="Webpack" src="https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=white" /> 
@@ -33,10 +33,9 @@ Ever since I started my programming journey with LearningFuze, I was thrilled by
 <a href="https://www.linkedin.com/in/sung-min-park/"><img src="https://img.shields.io/badge/-AdamPark-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sung-min-park/)" alt="LinkedIn"></a>
 <a href="mailto:parksm2@uci.edu"><img src="https://img.shields.io/badge/-parksm2@uci.edu-blue?style=flat&logo=email&logoColor=white&link=https://www.linkedin.com/in/sung-min-park/)" alt="email"></a>
 
-<h1>Apps<h2>
-  <h2>Final Project - Lifted <h2>
-    <h3>Lifted is a web app for people who wants to record their fitness journey.<h3>
-  <h2>AJAX Project - Ghibli Studio
+<h1>Projects :iphone:<h2>
+  <h2>Final Project - Lifted <a href ="https://github.com/Adam-SungMin-Park/lifted">GitHub Repo</a> <h2> 
+  <h2>AJAX Project - Ghibli Studio<a href ="https://github.com/Adam-SungMin-Park/ajax-project">GitHub Repo</a></h2>
 
 
 </div>
