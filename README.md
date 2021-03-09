@@ -33,5 +33,10 @@ Ever since I started my programming journey with LearningFuze, I was thrilled by
 <a href="https://www.linkedin.com/in/sung-min-park/"><img src="https://img.shields.io/badge/-AdamPark-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sung-min-park/)" alt="LinkedIn"></a>
 <a href="mailto:parksm2@uci.edu"><img src="https://img.shields.io/badge/-parksm2@uci.edu-blue?style=flat&logo=email&logoColor=white&link=https://www.linkedin.com/in/sung-min-park/)" alt="email"></a>
 
+<h1>Apps<h2>
+  <h2>Final Project - Lifted <h2>
+    <h3>Lifted is a web app for people who wants to record their fitness journey.<h3>
+  <h2>AJAX Project - Ghibli Studio
+
 
 </div>
