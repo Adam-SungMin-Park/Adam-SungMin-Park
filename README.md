@@ -34,8 +34,10 @@ Ever since I started my programming journey with LearningFuze, I was thrilled by
 <a href="mailto:parksm2@uci.edu"><img src="https://img.shields.io/badge/-parksm2@uci.edu-blue?style=flat&logo=email&logoColor=white&link=https://www.linkedin.com/in/sung-min-park/)" alt="email"></a>
 
 <h1>Projects :iphone:<h2>
-  <h2>Final Project - Lifted <a href ="https://github.com/Adam-SungMin-Park/lifted">GitHub Repo</a> <h2> 
-  <h2>AJAX Project - Ghibli Studio<a href ="https://github.com/Adam-SungMin-Park/ajax-project">GitHub Repo</a></h2>
+  <h2>
+    Final Project - Lifted <a href ="https://github.com/Adam-SungMin-Park/lifted">GitHub Repo</a> 
+    AJAX Project - Ghibli Studio<a href ="https://github.com/Adam-SungMin-Park/ajax-project">GitHub Repo</a>
+  </h2>
 
 
 </div>
