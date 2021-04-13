@@ -35,9 +35,9 @@ Ever since I started my programming journey with LearningFuze, I was thrilled by
 
 <h1>Projects :iphone:<h2>
   <h2>
-    Final Project - Lifted <a href ="https://github.com/Adam-SungMin-Park/lifted"> :GitHub Repo</a>
+    Final Project - Lifted <a href ="https://lifted-by-adam-park.herokuapp.com"/> : Live Demo</a>
     <br></br>
-    AJAX Project - Ghibli Studio <a href ="https://github.com/Adam-SungMin-Park/ajax-project"> :GitHub Repo</a>
+    AJAX Project - Ghibli Studio <a href ="https://adam-sungmin-park.github.io/ajax-project/"> : Live Demo</a>
   </h2>
 
 
