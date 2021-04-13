@@ -31,7 +31,7 @@ Ever since I started my programming journey with LearningFuze, I was thrilled by
   <h1>Contact Me!</h1>
   <h3>If you want to know me better, have any questions, please feel free to reach out to me!</h3>
   
-  <a href="https://www.linkedin.com/in/sung-min-park/"><img src="https://img.shields.io/badge/-parksm2@uci.edu-blue?style=flat&logo=email&logoColor=white&link=https://www.linkedin.com/in/sung-min-park/)" alt="LinkedIn"></a>
+  <a href="https://www.linkedin.com/in/sung-min-park/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=email&logoColor=white&link=https://www.linkedin.com/in/sung-min-park/)" alt="LinkedIn"></a>
   
   <a href="mailto:parksm2@uci.edu"><img src="https://img.shields.io/badge/-parksm2@uci.edu-blue?style=flat&logo=email&logoColor=white&link=https://www.linkedin.com/in/sung-min-park/)" alt="email"></a>
   
