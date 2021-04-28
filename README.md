@@ -24,7 +24,8 @@ Ever since I started my programming journey with LearningFuze, I was thrilled by
     <img alt ="css" src ="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3" />
     <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
     <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
-
+  
+[![Adam's GitHub stats](https://github-readme-stats.vercel.app/api?username=Adam-SungMin-Park)](https://github.com/Adam-SungMin-Park/github-readme-stats)
  
   
 
